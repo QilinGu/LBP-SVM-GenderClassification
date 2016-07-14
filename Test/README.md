@@ -1,3 +1,5 @@
-MinMax.csv
-SelectedFeatures.csv
+MinMax.csv,
+
+SelectedFeatures.csv,
+
 SvmBoostMScale.model
